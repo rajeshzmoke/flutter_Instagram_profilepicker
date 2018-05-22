@@ -1,6 +1,6 @@
 # flutter_instagram_profilepic
 
-A new Flutter project.
+A new Flutter project with Instagram like profile pic
 
 ## Getting Started
 
