@@ -22,7 +22,7 @@ class ProfilePic extends StatelessWidget {
           ),
           child: Padding(
             padding: img == null
-                ? EdgeInsets.only(top: 15.0, left: 20.0, right: 20.0)
+                ? EdgeInsets.only(top: 13.0, left: 20.0, right: 20.0)
                 : EdgeInsets.all(0.0),
             child: ClipRRect(
               borderRadius: img == null
