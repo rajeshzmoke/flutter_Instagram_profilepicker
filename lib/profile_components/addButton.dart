@@ -8,8 +8,8 @@ class AddImageButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Positioned(
       top: 159.0,
-      left: 200.0,
-      right: 136.0,
+      left: 80.0,
+      // right: 136.0,
       child: GestureDetector(
         onTap: getImage,
         child: Container(

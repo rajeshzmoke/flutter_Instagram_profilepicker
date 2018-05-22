@@ -10,9 +10,9 @@ class ProfilePic extends StatelessWidget {
   Widget build(BuildContext context) {
     double screenWidth = MediaQuery.of(context).size.width;
     return PositionedDirectional(
-      start: screenWidth * 133.5 / 360,
+      start: 10.0,
       top: 81.0,
-      end: screenWidth * 133.5 / 360,
+      // end: screenWidth * 133.5 / 360,
       child: Container(
           width: 100.0,
           height: 100.0,
